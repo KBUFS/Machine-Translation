@@ -1,4 +1,4 @@
-# Mechine-Translation
+# Machine-Translation
 利用transformer结构实现英文-中文的翻译
 这里使用MarianMT预训练模型来对数据集进行分词
 通过全参数微调和LORA在部分投影层加入低秩矩阵来减少训练参数的两种方法对模型进行微调
